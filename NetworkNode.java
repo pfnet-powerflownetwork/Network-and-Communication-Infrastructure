@@ -26,7 +26,7 @@ public class NetworkNode {
 
             System.out.println("[INFO] Connected to NetworkServer at " + serverHost + ":" + serverPort);
 
-            // Send handshake
+            // Send handshake ...
             JSONObject handshake = new JSONObject();
             handshake.put("nodeId", nodeId);
             out.println(handshake.toString());
