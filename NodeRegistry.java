@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * NodeRegistry - Manages connected nodes in the PFNET network.
+ * NodeRegistry-Manages connected nodes in the PFNET network.
  */
 public class NodeRegistry {
 
