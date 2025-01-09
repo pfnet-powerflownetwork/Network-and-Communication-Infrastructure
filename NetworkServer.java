@@ -6,7 +6,7 @@ import java.util.*;
 import org.json.JSONObject;
 
 /**
- * NetworkServer - Handles communication between PFNET nodes.
+ * NetworkServer-Handles communication between PFNET nodes.
  */
 public class NetworkServer {
 
